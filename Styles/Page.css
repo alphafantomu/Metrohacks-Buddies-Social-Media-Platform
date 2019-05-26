@@ -1,0 +1,67 @@
+header {
+  color: #FFFFFF;
+}
+body {
+	color: #000000;
+	background: #FFFFFF;
+  background-color: #DDBB3E;
+}
+a:link {
+	color: #2069D9;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+h1 {
+	color: #000000;
+	font: small-caps 34px Verdana, Arial, Helvetica, sans-serif;
+}
+h2 {
+	color: #000000;
+	font: small-caps 29px Times New Roman, Arial, Helvetica, san-serif;
+}
+#container {
+	width: 90%
+	max-width: 600px
+	margin: auto;
+	padding: 2.5rem 0;
+}
+
+.myButton {
+    -moz-box-shadow: -7px 5px 6px 0px #3dc21b;
+    -webkit-box-shadow: -7px 5px 6px 0px #3dc21b;
+    box-shadow: -7px 5px 6px 0px #3dc21b;
+    background-color:#44c767;
+    -moz-border-radius:28px;
+    -webkit-border-radius:28px;
+    border-radius:28px;
+    border:3px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:16px 47px;
+    text-decoration:none;
+    text-shadow:0px 0px 0px #2f6627;
+}
+.myButton:hover {
+    background-color:#5cbf2a;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+/*
+h1 {
+	color: #ff3333;
+	font: small-caps 34px Verdana, Arial, Helvetica, sans-serif;
+}
+h2 {
+	color: #99CCFF;
+	font: small-caps 29px Times New Roman, Arial, Helvetica, san-serif;
+}
+-->
+*/
